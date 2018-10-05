@@ -1,0 +1,34 @@
+﻿body
+	{
+	background-image: url(forest.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+
+#iaFace {
+		position: fixed; 
+		left: 43%;
+		bottom:-30px;
+		}
+
+
+#accueil
+		{
+		font-size: 13px;
+		position : fixed;
+		width : 600px;
+		height: 670px;
+		left: 53%;
+		background-image: url(bulle.png);
+		background-repeat: no-repeat;
+		top: 170px;
+		}
+		
+p {
+		font-family: arial;
+		position: absolute;
+		top: 5%;
+		left: 10%;
+		margin: 90px;
+		}

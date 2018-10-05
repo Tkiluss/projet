@@ -1,0 +1,65 @@
+
+body
+	{
+	background-image: url(forest.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+p
+{
+
+text-align: justify;
+
+}
+
+
+#intro {
+		font-size: 13px;
+		position : fixed;
+		width : 600px;
+		height: 670px;
+		left: 53%;
+		background-image: url(bulle.png);
+		background-repeat: no-repeat;
+		top: 170px;
+		justify-content: space-around;
+		}
+
+.texte {
+		font-family: arial;
+		position: absolute;
+		top: -1%;
+		left: 5%;
+		margin: 90px;
+		}
+
+#iaFace {
+		position: fixed; 
+		left: 43%;
+		bottom:-30px;
+
+		}
+
+
+#finishSubscribe 
+				{
+				font-size: 13px;
+				position : fixed;
+				width : 600px;
+				height: 670px;
+				left: 53%;
+				background-image: url(bulle.png);
+				background-repeat: no-repeat;
+				top: 170px;
+				}
+
+
+
+#formulaire{
+	background-image: linear-gradient(white, #f4fffc);
+	width: 23%;
+	height: 42%;
+	padding: 10px;
+	text-align: center;
+}

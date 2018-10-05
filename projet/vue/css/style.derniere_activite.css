@@ -1,0 +1,40 @@
+body
+	{
+	background-image: url(forest.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+p
+{
+text-align: justify;
+}
+
+
+.texte {
+		font-family: arial;
+		position: absolute;
+		top: 5%;
+		left: 5%;
+		margin: 90px;
+		}
+
+#iaFace {
+		position: fixed; 
+		left: 43%;
+		bottom:-30px;
+
+		}
+
+
+#formulaire
+				{
+				font-size: 13px;
+				position : fixed;
+				width : 600px;
+				height: 670px;
+				left: 53%;
+				background-image: url(bulle.png);
+				background-repeat: no-repeat;
+				top: 170px;
+				}

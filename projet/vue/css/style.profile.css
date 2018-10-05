@@ -1,0 +1,35 @@
+
+body
+	{
+	background-image: url(forest.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+p
+{
+text-align: justify;
+font-family: arial;
+}
+
+
+
+#iaFace {
+		position: fixed; 
+		left: 43%;
+		bottom:-30px;
+
+		}
+
+
+
+
+#questionProfile{
+	
+	background-image: linear-gradient(white, #f4fffc);
+	width: 23%;
+	height: 42%;
+	padding: 10px;
+	position: relative;
+	left: 20%;
+}
